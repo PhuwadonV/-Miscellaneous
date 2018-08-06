@@ -1,4 +1,6 @@
 # Miscellaneous
+## Connect Four
+Game written in scala<br/>
 ## Machine Code
 Change page virtual memory flag to executable
 ## SFINEA
