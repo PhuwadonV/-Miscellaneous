@@ -1,0 +1,8 @@
+{
+    "name": "B",
+    "references": [
+        "Script"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": []
+}
